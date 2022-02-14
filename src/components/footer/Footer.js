@@ -1,5 +1,5 @@
 
-import './src/components/footer/Footer.css';
+import '../footer/Footer.css';
 
 function  Footer(props){
     console.log();
