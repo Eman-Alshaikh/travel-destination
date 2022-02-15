@@ -1,14 +1,14 @@
-function Header(props){
-    console.log();
-    return(
-        <>
-        <h1>Welcome to the "Travel Destination" website</h1>
-      
-        
-        
-        </>
-    )
+import '../header/Header.css';
 
+import Navbar from '../Navbar/Navbar'
+
+
+function Header() {
+    return (
+        <>
+        <Navbar/>
+        </>
+    );
 }
 
 export default Header;

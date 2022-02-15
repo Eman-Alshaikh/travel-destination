@@ -1,18 +1,20 @@
+import '../home/Home.css';
+
+import Footer from "../footer/Footer";
+import Header from "../header/Header";
+import Tours from "../tours/Tours";
+
  
-import Header from '../header/Header';
-import Tours  from '../tours/Tours'
-import traveldata from '../../data/db.json'
-import Footer from '../footer/Footer'
 
 function Home() {
-  return (
-    <>
-    <Header/> 
-   <Tours myData={traveldata}/>
-   <Footer/>
+    return (
+        <>
+            <Header /> 
+           
 
-   </>
-   );
+
+        </>
+    );
 }
 
 export default Home;
