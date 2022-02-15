@@ -1,1 +1,39 @@
+/*ame{
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  color: #1a2b2e;
+  padding: 20px;
+  margin: 20px;
+}
+/*
+.fota{
+  display: flex;
+  align-items: center;
+  justify-content:right;
+  color: rgb(68, 8, 8);
+}
+.fot{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #74959A;
+  /* padding: 10px;
+  margin: 10px; 
+}
+
+.fota a{
+  padding: 10px;
+  margin: 10px;
+}*/
+.footermm {
+  grid-column: 1 / 3;
+  /* text-align: center; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #222;
+  color: #fff;
+  grid-row: 3 / -1;
+}
  

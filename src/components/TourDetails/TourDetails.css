@@ -1,1 +1,16 @@
- 
+
+.homelink:hover{
+background-color: #699252;
+border:20cm;
+}
+.homelink{
+    border:20cm; 
+    color: rgb(135, 146, 143); 
+}
+.details{ 
+     padding: 10px;
+    background-color: #fdfdfd;
+}
+.text{
+    margin: 8% 20%;
+    line-height: 2; }

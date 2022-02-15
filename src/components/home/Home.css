@@ -1,1 +1,8 @@
- 
+.tours{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+    border: 90px;
+    
+    
+}
